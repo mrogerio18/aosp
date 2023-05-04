@@ -1,0 +1,6 @@
+<resources>
+    <!-- Remove a rotação automática do dispositivo -->
+    <bool name="config_supportAutoRotation">false</bool>
+    <integer name="config_longPressOnPowerBehavior">2</integer>
+    <dimen name="config_dialogCornerRadius">50dp</dimen>
+</resources>
